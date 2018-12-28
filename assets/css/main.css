@@ -3374,6 +3374,7 @@ input, select, textarea {
 
 			#wrapper .copyright a {
 				color: inherit;
+				text-decoration: none;
 			}
 
 		#wrapper section {
